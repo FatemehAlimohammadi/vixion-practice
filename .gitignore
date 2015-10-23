@@ -1,0 +1,5 @@
+/Vixion/*
+!/Vixion/*.swift
+
+/Vixion.xcodeproj/
+/VixionTests/
